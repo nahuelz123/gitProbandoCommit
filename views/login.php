@@ -5,7 +5,7 @@
     <div class="container-fluid">
         <div class="row">
         <?php 
-  echo "hola 2";
+  
   if(isset($alert)&&($alert!= ""))
                   {
                   echo $alert['text'];
