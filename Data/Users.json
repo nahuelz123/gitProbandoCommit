@@ -1,0 +1,23 @@
+[
+    {
+        "idUser": 1,
+        "name": "daddy ",
+        "lastName": "DAWDA",
+        "email": "pep@lopez.com",
+        "password": "1234"
+    },
+    {
+        "idUser": 2,
+        "name": "Nahuel",
+        "lastName": "Zamudio",
+        "email": "DWAAWD@FAF",
+        "password": "1234"
+    },
+    {
+        "idUser": 3,
+        "name": "ADAWD",
+        "lastName": "DAWD",
+        "email": "pep@lFAWFA",
+        "password": "1234"
+    }
+]
